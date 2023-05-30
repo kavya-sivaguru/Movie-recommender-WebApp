@@ -52,5 +52,4 @@ urllib3==2.0.2
 validators==0.20.0
 yarg==0.1.9
 zipp==3.15.0
-# trigger setup.py
--e .
+
